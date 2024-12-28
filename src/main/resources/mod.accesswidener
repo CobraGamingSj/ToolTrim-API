@@ -1,0 +1,7 @@
+accessWidener v1 named
+
+accessible method net/minecraft/item/Items keyOf (Ljava/lang/String;)Lnet/minecraft/registry/RegistryKey;
+
+accessible method net/minecraft/registry/RegistryKeys of (Ljava/lang/String;)Lnet/minecraft/registry/RegistryKey;
+
+accessible method net/minecraft/component/DataComponentTypes register (Ljava/lang/String;Ljava/util/function/UnaryOperator;)Lnet/minecraft/component/ComponentType;
